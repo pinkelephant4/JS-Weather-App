@@ -1,2 +1,2 @@
-# Vanilla-JS-Projects
-Some basic projects using vanilla JS
+# JS-Weather-App
+Weather App using OpenWeatherMap API
